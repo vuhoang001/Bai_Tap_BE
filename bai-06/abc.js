@@ -253,13 +253,14 @@
 
 // console.log(drinkAlcohol);
 
-//Cau 12: 
-const object = [1, 2, "Nam", "Hùng", 3, 4, "Hòa", 6, "Long"];
-var list = [];
-for (const key in object) {
-    if(typeof object[key] === 'string'){
-        list.push(object[key]);
-    }
-}
-console.log(list);
+// //Cau 12: 
+// const object = [1, 2, "Nam", "Hùng", 3, 4, "Hòa", 6, "Long"];
+// var list = [];
+// for (const key in object) {
+//     if(typeof object[key] === 'string'){
+//         list.push(object[key]);
+//     }
+// }
+// console.log(list);
 
+asdfasdf
